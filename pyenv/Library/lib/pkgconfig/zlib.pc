@@ -1,0 +1,13 @@
+prefix=D:/python/pyenv/Library
+exec_prefix=D:/python/pyenv/Library
+libdir=D:/python/pyenv/Library/lib
+sharedlibdir=D:/python/pyenv/Library/lib
+includedir=D:/python/pyenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

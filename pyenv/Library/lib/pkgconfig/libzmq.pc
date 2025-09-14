@@ -1,0 +1,12 @@
+prefix=d:/python/pyenv/Library
+exec_prefix=d:/python/pyenv/Library
+libdir=d:/python/pyenv/Library/lib
+includedir=d:/python/pyenv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
