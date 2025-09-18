@@ -1,0 +1,5 @@
+Python is easy to learn.  
+Python is powerful.  
+Data science uses Python a lot.  
+Machine learning with Python is fun and powerful.  
+Learning Python can be easy if you practice Python every day.  
