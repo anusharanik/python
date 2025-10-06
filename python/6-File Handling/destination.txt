@@ -1,0 +1,6 @@
+Adding a new line
+second line added
+Appends without overwriting
+First line
+Second line
+third line
