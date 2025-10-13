@@ -1,3 +1,5 @@
 ipykernel
 numpy
 requests ##this library commonly used to call APIs
+streamlit ##to create web applications for machine learning and data science projects using python scripts
+scikit-learn
