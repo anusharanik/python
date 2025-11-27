@@ -8,3 +8,5 @@ matplotlib
 seaborn
 xgboost
 beautifulsoup4
+TensorFlow ##For building end to end deep learning projects
+Keras #Keras API is wrapper on top of TensorFlow
